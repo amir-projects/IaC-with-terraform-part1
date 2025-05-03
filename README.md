@@ -24,13 +24,15 @@ resource "random_pet" "name" {
   length = 2
 }
 ```
+ What This Does:
+This code tells Terraform to generate a random pet name with 2 words like "happy-panda" or "silly-tiger".
+
 Run this:
 ```sh
-terraform init
-terraform plan
-terraform apply
+terraform init  # Sets up Terraform (downloads provider)
+terraform plan  # Shows what will happen
+terraform apply # Runs it and gives you a random name
 ```
-
 ---
 
 ## 🔹 2️⃣ Terraform Init
@@ -161,3 +163,5 @@ tfvars or -var="region=us-west-2"
 > 📁 Each folder (`00-` to `03-`) in this repo has self-contained `.tf` files and guides.
 
 Happy Terraforming! 💻☁️
+Feel free to reach out shohag_ict@live.com
+
