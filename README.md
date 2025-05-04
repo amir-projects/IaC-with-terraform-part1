@@ -24,7 +24,6 @@ Think of IaC as a blueprint for your servers, networks, and configurations! 📜
 
 ## 🔹 1️⃣ Introduction to Terraform & LifeCycle
 
-### 🎙️ Easy Explanation
 **What is Terraform?**
 > "A tool that builds and manages your cloud infrastructure using simple files."
 
@@ -42,7 +41,7 @@ resource "random_pet" "name" {
   length = 2
 }
 ```
- What This Does:
+**What This Does**:
 This code tells Terraform to generate a random pet name with 2 words like "happy-panda" or "silly-tiger".
 
 Run this:
@@ -54,11 +53,13 @@ terraform apply # Runs it and gives you a random name
 ---
 
 ## 🔹 2️⃣ Terraform Lifecyle
+ ![lifecycle](https://k21academy.com/wp-content/uploads/2020/11/terraform-lifecycle.png)
+
 The Terraform Lifecycle typically consists of:
-1️⃣ Initialization (terraform init) – Sets up Terraform in the working directory.
-2️⃣ Planning (terraform plan) – Shows proposed changes before applying them.
-3️⃣ Applying (terraform apply) – Deploys infrastructure changes.
-4️⃣ Destroying (terraform destroy) – Removes resources when no longer needed
+-1️⃣ Initialization (terraform init) – Sets up Terraform in the working directory.
+- 2️⃣ Planning (terraform plan) – Shows proposed changes before applying them.
+- 3️⃣ Applying (terraform apply) – Deploys infrastructure changes.
+- 4️⃣ Destroying (terraform destroy) – Removes resources when no longer needed
 
 
 ### 🎙️ Terraform init
