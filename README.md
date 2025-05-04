@@ -1,4 +1,4 @@
-# Terraform Basics 
+![image](https://github.com/user-attachments/assets/c3798343-ee12-4d93-b931-75b2f0e546e2)# Terraform Basics 
 A beginner-friendly GitHub repository with clear code examples and step-by-step demos for a Terraform training session.
 
 ---
@@ -56,13 +56,13 @@ terraform apply # Runs it and gives you a random name
  ![lifecycle](https://k21academy.com/wp-content/uploads/2020/11/terraform-lifecycle.png)
 
 The Terraform Lifecycle typically consists of:
--1️⃣ Initialization (terraform init) – Sets up Terraform in the working directory.
+- 1️⃣ Initialization (terraform init) – Sets up Terraform in the working directory.
 - 2️⃣ Planning (terraform plan) – Shows proposed changes before applying them.
 - 3️⃣ Applying (terraform apply) – Deploys infrastructure changes.
 - 4️⃣ Destroying (terraform destroy) – Removes resources when no longer needed
 
 
-### 🎙️ Terraform init
+### Terraform init
 - `terraform init` is like "setting up the toolbox".
 - `Real world` It ensures you have the right plugins, modules, and configurations in place— `just like a carpenter setting up their workstation before building something` & 
    `Another fun example: Think of terraform init as preheating the oven before baking`
@@ -78,9 +78,11 @@ Show:
 - `.terraform/` directory
 - Plugin downloads
 
----
-
+--- 
+## 🔹 2️⃣ Terraform Installation
+          [tf-installation-guide](https://github.com/amir-projects/tf-installation-guide)
 ## 🔹 3️⃣ Terraform Providers
+  ![Providers](https://k21academy.com/wp-content/uploads/2020/11/Terraform-provider-api-call.png)
 
 ### 🎙️ Easy Explanation
 - **Providers** are plugins that tell Terraform how to talk to cloud platforms.
