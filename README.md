@@ -7,6 +7,9 @@ A beginner-friendly GitHub repository with clear code examples and step-by-step 
 Infrastructure as Code (IaC) is the practice of managing and provisioning cloud or on-prem infrastructure using code instead of manual processes.
 Think of IaC as a blueprint for your servers, networks, and configurations! 📜
 
+![IaC](https://k21academy.com/wp-content/uploads/2020/11/Explanation-of-how-IaC-works.jpg)
+
+
 ## ✨ Why use IaC?
 - ✅ Repeatable: Same config = same result every time.
 -  🚀 Fast: Deploy infrastructure in minutes.
