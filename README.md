@@ -8,15 +8,15 @@ Infrastructure as Code (IaC) is the practice of managing and provisioning cloud 
 Think of IaC as a blueprint for your servers, networks, and configurations! 📜
 
 ## ✨ Why use IaC?
-> ✅ Repeatable: Same config = same result every time.
-> 🚀 Fast: Deploy infrastructure in minutes.
-> 🔄 Version-controlled: Use Git to track changes, roll back when needed.
-> 🤝 Collaborative: Teams can work together on infrastructure code, just like app code.
-> 🔒 Fewer Errors: No manual setup means fewer mistakes.
+- ✅ Repeatable: Same config = same result every time.
+-  🚀 Fast: Deploy infrastructure in minutes.
+- 🔄 Version-controlled: Use Git to track changes, roll back when needed.
+- 🤝 Collaborative: Teams can work together on infrastructure code, just like app code.
+-  🔒 Fewer Errors: No manual setup means fewer mistakes.
 
 ## 🏆 Final Thoughts
-> 🚀 IaC saves time, prevents mistakes, and scales infrastructure easily!
-> 🔧 Whether you use Terraform, Ansible, or CloudFormation, IaC is the future of DevOps!
+- 🚀 IaC saves time, prevents mistakes, and scales infrastructure easily!
+- 🔧 Whether you use Terraform, Ansible, or CloudFormation, IaC is the future of DevOps!
 
 ## 🔹 1️⃣ Introduction to Terraform & LifeCycle
 
