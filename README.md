@@ -80,7 +80,7 @@ Show:
 
 --- 
 ## 🔹 2️⃣ Terraform Installation
-          [tf-installation-guide](https://github.com/amir-projects/tf-installation-guide)
+ [tf-installation-guide](https://github.com/amir-projects/tf-installation-guide)
 ## 🔹 3️⃣ Terraform Providers
   ![Providers](https://k21academy.com/wp-content/uploads/2020/11/Terraform-provider-api-call.png)
 
