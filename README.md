@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/c3798343-ee12-4d93-b931-75b2f0e546e2)# Terraform Basics 
 A beginner-friendly GitHub repository with clear code examples and step-by-step demos for a Terraform training session.
 
 ---
