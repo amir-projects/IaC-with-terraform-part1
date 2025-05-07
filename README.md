@@ -70,6 +70,22 @@ The Terraform Lifecycle typically consists of:
 
 ### 💻 Demo
 Create a new folder (e.g., `01-init-provider`), add basic config, and run:
+
+```hcl
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = "~> 5.0"
+    }
+  }
+}
+
+provider "aws" {
+  region = "us-east-1"
+}
+```
+
 ```sh
 terraform init
 ```
